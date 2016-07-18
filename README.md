@@ -1,1 +1,1 @@
-# ds18b20-arduino-nano-v3
+# DS18B20 + Arduino Nano V3 + ENC28J60
